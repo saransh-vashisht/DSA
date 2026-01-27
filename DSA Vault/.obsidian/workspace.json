@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "777 Neetcode250/7771 Array/3. Valid Anagram.md",
+                "file": "777 Neetcode250/7771 Array/4. Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Valid Anagram"
+              "title": "4. Two Sum"
             }
           }
         ],
@@ -177,10 +177,13 @@
   },
   "active": "bee5fd197cbe61c1",
   "lastOpenFiles": [
+    "777 Neetcode250/7771 Array/3. Valid Anagram.md",
+    "777 Neetcode250/7771 Array/4. Two Sum.md",
+    "888 Striver DSA/8882 Patterns/Patterns Beginning.md",
+    "888 Striver DSA/8882 Patterns",
     "DSA/README.md",
     "DSA",
     "777 Neetcode250/7771 Array/2. Contains Duplicate.md",
-    "777 Neetcode250/7771 Array/3. Valid Anagram.md",
     "777 Neetcode250/7771 Array/1. Concatenation of Array.md",
     "777 Neetcode250/7771 Array",
     "777 Neetcode250",
