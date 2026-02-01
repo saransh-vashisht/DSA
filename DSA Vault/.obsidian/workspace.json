@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "777 Neetcode250/7771 Array/5. Longest Common Prefix.md",
+                "file": "777 Neetcode250/7771 Array/6. Group Anagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Longest Common Prefix"
+              "title": "6. Group Anagrams"
             }
           }
         ],
@@ -177,8 +177,9 @@
   },
   "active": "bee5fd197cbe61c1",
   "lastOpenFiles": [
-    "777 Neetcode250/7771 Array/1. Concatenation of Array.md",
     "777 Neetcode250/7771 Array/5. Longest Common Prefix.md",
+    "777 Neetcode250/7771 Array/6. Group Anagrams.md",
+    "777 Neetcode250/7771 Array/1. Concatenation of Array.md",
     "777 Neetcode250/7771 Array/String.md",
     "777 Neetcode250/7771 Array/HashMap.md",
     "777 Neetcode250/7771 Array/4. Two Sum.md",
